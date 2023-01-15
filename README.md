@@ -3,8 +3,8 @@
 </div>
 
 <div align="center"> 
-<h2>Hi! Welcome to my profile!
-My name is <a href ="https://www.linkedin.com/in/gustavo-cotrim/" target="_blank" rel="noreferrer">Gustavo Cotrim</a>! I'm Java Web Developer ☕</h2> 
+<h2>Hi, Welcome to my profile!
+My name is <a href ="https://www.linkedin.com/in/gustavo-cotrim/" target="_blank" rel="noreferrer">Gustavo Cotrim</a>. I'm Java Web Developer ☕</h2> 
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
